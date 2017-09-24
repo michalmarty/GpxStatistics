@@ -52,6 +52,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TripStatistics.cs" />
     <Compile Include="Wspolrzedne.cs" />
+    <Compile Include="XmlDataReader.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

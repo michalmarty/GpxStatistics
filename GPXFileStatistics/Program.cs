@@ -11,7 +11,7 @@ namespace GPXFileStatistics
     {
         static void Main(string[] args)
         {
-            IBikeDataReader dataReader = new CsvDataReader();
+            IBikeDataReader dataReader = new XmlDataReader();
 
             StatisticManager manager = new StatisticManager(dataReader);
 

@@ -1,2 +1,3 @@
 # GpxStatistics
-This is for testing GIT
+GPX sport activity files statistic software
+For learnig .net
